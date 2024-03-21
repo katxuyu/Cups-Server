@@ -1,0 +1,4 @@
+#!/bin/bash
+echo '1.0.0' > shome/version.txt
+rm -f /tmp/update.bin
+killall station

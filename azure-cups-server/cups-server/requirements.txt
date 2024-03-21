@@ -1,0 +1,9 @@
+aiohttp==3.7.4
+Flask==1.1.2
+importlib_metadata==4.6.4
+mysql_connector_repackaged==0.3.1
+pam==0.2.0
+python_pam==2.0.2
+Rx==3.2.0
+websockets==10.2
+Werkzeug==2.0.2
